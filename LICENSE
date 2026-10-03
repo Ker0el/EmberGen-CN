@@ -436,16 +436,3 @@ public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
 
-
----
-
-注意 / Note
-
-本许可只覆盖本仓库中的词条（dict/ 下的文件），即由「星空汉化」完成的译文。
-
-EmberGen 是 JangaFX 的闭源商业软件。本仓库不含它的任何文件。
-译文所对应的界面原始文字，其版权归 JangaFX 所有。
-
-This license covers only the dictionary files under dict/ - the translations
-written by 星空汉化. EmberGen and its interface text are the property of
-JangaFX; no part of EmberGen itself is included in this repository.
