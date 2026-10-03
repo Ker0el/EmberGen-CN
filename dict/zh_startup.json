@@ -1,0 +1,14 @@
+{
+  "_comment": "启动页(Home)。导航标签原文带前导空格，键须逐字符一致。",
+  "Recent Projects": "最近项目",
+  "Start From": "从模板开始",
+  "What's New": "更新内容",
+  "Presets": "预设",
+  "My Projects": "我的项目",
+  " Home": "首页",
+  " Learn": "学习",
+  " Presets": "预设",
+  " My Projects": "我的项目",
+  " License Manager": "授权管理",
+  " Forum": "论坛"
+}
